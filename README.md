@@ -3,16 +3,7 @@
 <img src="img/zuev.jpg"> 
 
 ## Андрей Зуев, 58 лет
-женат <img src="img/we.png"> 
 
-Двое сыновей
-
-<img src="img/suns.png"  >
-<img src="img/suns1.png">
-
-они тоже счастливы в браке
-<img src="img/all.jpg">
-вот такая большая семья Зуевых
 
 ### Образование
 1. ВВМУРЭ им Попова, по специальности "Математическое обеспечение АСУ" <img src="img/vvmure.png">
@@ -32,6 +23,17 @@
 - Начинающий тестировщик
   1. [Кейс «Протестировать сайт»](https://docs.google.com/spreadsheets/d/1VW6mrPBwDevhARhhVG1hOhX7ABwi9j3I_X_9bkNO5FY/edit?usp=sharing)
 
+## О себе
+женат <img src="img/we.png"> 
+
+Двое сыновей
+
+<img src="img/suns.png"  >
+<img src="img/suns1.png">
+
+они тоже счастливы в браке
+<img src="img/all.jpg">
+вот такая большая семья Зуевых
 
 ### Увлечения
 - кинематограф
