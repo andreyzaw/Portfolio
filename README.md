@@ -10,6 +10,7 @@
 2. В настоящее время учусь в Нетологии по специальности "Тестировщик ПО"<img src="img/netology.png">  Уже изучил модули
    - [Ручное тестирование веб-приложений](https://netology.ru/sharing/d9415450760440b14c9d711c0a60a243?utm_source=social&utm_campaign=certificate_lms )
    - [Git - система контроля версий](https://netology.ru/sharing/bcbf6fca05991078aef4cb9308d98fcb?utm_source=social&utm_campaign=certificate_lms )
+   - [Python для тестировщиков](https://netology.ru/sharing/eb9419c9331c6acd46ba97ae8106a88d?utm_source=social&utm_campaign=certificate_lms )
 
 ### Опыт работы
 
